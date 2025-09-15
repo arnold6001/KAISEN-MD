@@ -104,4 +104,4 @@ Upload the full project to your preferred panel or host.
 
  ### Support
 
-<a href="https://chat.whatsapp.com/CQyxExEBMGvEnkA32zqbNY"><img alt="WhatsApp" src="https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp"/></a>
+<a href="https://chat.whatsapp.com/DAwDS6hz3b14eCRkM7Cecj"><img alt="WhatsApp" src="https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp"/></a>
